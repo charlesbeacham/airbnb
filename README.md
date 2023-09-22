@@ -1,4 +1,4 @@
-# Seattle Airbnb data exploration
+# Seattle Airbnb Data Exploration
 
 ### Table of Contents
 
