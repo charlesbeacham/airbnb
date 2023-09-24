@@ -31,7 +31,7 @@ The notebook analysis file used to answer all 3 questions is airbnb.ipynb.  In a
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](inesrt my link).
+The main findings of the code can be found at the post available [here](https://medium.com/@cbeacham_96550/before-that-trip-to-seattle-2af2f609c8cb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
